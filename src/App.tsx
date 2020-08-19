@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Section from './components/Section';
+import { Section, SideMenu } from './components';
 
 import GlobalStyles from './styles/GlobalStyles';
 
@@ -34,6 +34,7 @@ function App() {
         title={data[4].title}
         description={data[4].description}
       />
+      <SideMenu />
       <GlobalStyles />
     </>
   );
