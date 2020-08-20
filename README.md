@@ -2,7 +2,7 @@
 <h1 align="center">
   Dropbox Menu Clone
 </h1>
-<p>
+<p align="center">
   Responsive Dropbox Menu interface recreated with ReactJS and Styled Components.
 </p>
 <div align="center">
